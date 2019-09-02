@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "JhipsterReactNative",
+    "packageName": "info.kmdb",
+    "packageFolder": "info/kmdb",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "de",
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.2.0",
+    "jwtSecretKey": "MzUxYmUyYTc5MTU0YzcxOTU3ZDQwNjc0ZTI3OThmMDM3MzViMTNjMTVlNTRmYTFkZGQ0YjkzOTU5Y2UxM2VlYTAxY2VlZDM1NTdlZWFmOTdlYTdlMTQ2NWQ3NjQxNGE2Y2FmNTI4NDc5M2I4NzVkYmFlNDEwODNmYzU0ODZmZjM=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "kaloneh",
+  "repository-name": "jhipster-ignite"
+}
